@@ -1,4 +1,4 @@
-## 👨‍💻 Hi, My name is Tony
+## 👨‍💻 Hi, My name is Jihun | Anthony
 Hey, welcome to my github. <br>
 안녕하세요 김지훈입니다.
 
