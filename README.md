@@ -12,12 +12,12 @@
     - Spring boot (Gradle), Java11, MySQL, Mybatis, Thymeleaf
     - 프로젝트 상세 정보가 궁금하시다면, [Carhartt 가방 쇼핑몰 프로젝트](https://github.com/Ji-hunKim/Carhartt)를 클릭하세요.<br>
 
-- 게시판 구현 (진행중) <br>
+- 스프링 게시판 구현 프로젝트 (진행중) <br>
     - 게시판 CRUD 구현 예정 <br>
     - 페이징 처리 구현 예정 <br>
     - 게시글 검색 기능 구현 예정 <br>
     - Spring boot (Gradle, Java11, MySQL, JPA
-    - 프로젝트 상세 정보가 궁금하시다면, [게시판 구현 ](https://github.com/Ji-hunKim/springBoard)를 클릭하세요.<br>
+    - 프로젝트 상세 정보가 궁금하시다면, [스프링 게시판 구현 프로젝트](https://github.com/Ji-hunKim/springBoard)를 클릭하세요.<br>
 
 - 핀테크 아카데미 계좌 개설 및 송출금 토이 프로젝트 <br>
     - 금융위 API 활용 사용자 인증처리 및 계좌 개설/송출금 <br>
