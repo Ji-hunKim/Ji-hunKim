@@ -25,6 +25,7 @@
 
 ## 🛠 Skills <br>
 - Java, Spring, JSP/Servlet<br>
+- MySQL, Mybatis, JPA
 - HTML/CSS/JS(SE6) <br>
 
 ## ✏ Coding Problems Solving <br>
