@@ -21,4 +21,4 @@
 ## ✏ Coding Problems Solving <br>
 - Java<br>
 - LeetCode, Programmers, Baekjoon <br>
-- Link : [java coding problem solvings](https://github.com/Ji-hunKim/java_coding_problems_solving)<br>
+- Link : [java coding problem solvings](https://github.com/Ji-hunKim/javaCodingProblemSolving/tree/main)<br>
