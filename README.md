@@ -17,3 +17,8 @@
 ## 🛠 Skills <br>
 - Java, Spring, JSP/Servlet<br>
 - HTML/CSS/JS(SE6) <br>
+
+## ✏ Coding Problems Solving <br>
+- Java
+- LeetCode, Programmers, Baekjoon 
+- Link : https://github.com/Ji-hunKim/java_coding_problems_solving
