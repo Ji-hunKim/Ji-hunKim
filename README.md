@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=135&section=header&text=Jihun's%20Github&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=135&section=header&text=Jihun's%20Github&fontSize=35)
 ## 🛠 Skills <br>
 
 |    Language    |         Framework, Library      |     Database      |      ORM       |       Tools      |
@@ -17,4 +17,4 @@
 - Java<br>
 - LeetCode, Programmers, Baekjoon <br>
 - Link : [java coding problems solving](https://github.com/Ji-hunKim/javaCodingProblemSolving)<br>
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=135&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=135&section=footer)
