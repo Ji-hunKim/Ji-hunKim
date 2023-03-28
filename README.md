@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Jihun's%20Github&fontSize=30)
 
+## 🛠 Skills <br>
+
 |    Language    |         Framework, Library      |     Database      |      Tools     |
 |   :--------:   |            :--------:           |    :--------:     |    :--------:  |
 |<img src="https://img.shields.io/badge/Java-FD5300?style=for-the-badge&logo=Java&logoColor=white">|<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">|<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">|<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ&logoColor=white">|
@@ -29,11 +31,6 @@
     - 금융위 API 활용 사용자 인증처리 및 계좌 개설/송출금 <br>
     - Node.js, React.js
     - 프로젝트 상세 정보가 궁금하시다면, [핀테크 아카데미 토이 프로젝트](https://github.com/Ji-hunKim/FintechPractice)를 클릭하세요.<br>
-
-## 🛠 Skills <br>
-- Java, Spring, JSP/Servlet<br>
-- MySQL, Mybatis, JPA
-- HTML/CSS/JS(SE6) <br>
 
 ## ✏ Coding Problems Solving <br>
 - Java<br>
