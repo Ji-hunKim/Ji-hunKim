@@ -14,7 +14,6 @@
 - [핀테크 아카데미 계좌 개설 및 이체 프로젝트](https://github.com/Ji-hunKim/FintechPractice)<br>
 
 ## ✏ Coding Problems Solving <br>
-- Java<br>
 - LeetCode, Programmers, Baekjoon <br>
 - Link : [java coding problems solving](https://github.com/Ji-hunKim/javaCodingProblemSolving)<br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=135&section=footer)
