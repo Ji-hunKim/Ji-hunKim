@@ -5,7 +5,7 @@
 |    Language    |         Framework, Library      |     Database      |      ORM       |       Tools      |
 |   :--------:   |            :--------:           |    :--------:     |    :--------:  |    :--------:    |
 |<img src="https://img.shields.io/badge/Java-FD5300?style=for-the-badge&logo=Java&logoColor=white">|<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">|<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">|<img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=JPA&logoColor=white">|<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">|
-||<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"><img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white">||<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">|
+||<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">|<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white">|<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">|
 ||<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">||||
 
 ## 📂 Projects <br>
