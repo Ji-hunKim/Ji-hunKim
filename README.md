@@ -9,10 +9,10 @@
 ||<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">|||
 
 ## 📂 Projects <br>
-[Lush 클론 코딩 프로젝트](https://github.com/Ji-hunKim/Lush-1)<br>
-[Carhartt 가방 쇼핑몰 프로젝트](https://github.com/Ji-hunKim/Carhartt)<br>
-[스프링 게시판 구현 프로젝트](https://github.com/Ji-hunKim/springBoard)<br>
-[핀테크 아카데미 계좌 개설 및 이체 프로젝트](https://github.com/Ji-hunKim/FintechPractice)를 클릭하세요.<br>
+- [Lush 클론 코딩 프로젝트](https://github.com/Ji-hunKim/Lush-1)<br>
+- [Carhartt 가방 쇼핑몰 프로젝트](https://github.com/Ji-hunKim/Carhartt)<br>
+- [스프링 게시판 구현 프로젝트](https://github.com/Ji-hunKim/springBoard)<br>
+- [핀테크 아카데미 계좌 개설 및 이체 프로젝트](https://github.com/Ji-hunKim/FintechPractice)<br>
 
 ## ✏ Coding Problems Solving <br>
 - Java<br>
