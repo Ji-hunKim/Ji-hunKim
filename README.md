@@ -19,4 +19,4 @@
 - LeetCode, Programmers, Baekjoon <br>
 - Link : [java coding problems solving](https://github.com/Ji-hunKim/javaCodingProblemSolving)<br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer)
