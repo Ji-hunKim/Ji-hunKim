@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihun's%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Jihun's%20Github&fontSize=60)
 
 |    Language    |         Framework, Library      |     Database      |      Tools     |
 |   :--------:   |            :--------:           |    :--------:     |    :--------:  |
