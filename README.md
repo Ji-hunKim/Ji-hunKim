@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=Jihun's%20Github&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Jihun's%20Github&fontSize=30)
 ## 🛠 Skills <br>
 
 |    Language    |         Framework, Library      |     Database      |      ORM       |       Tools      |
