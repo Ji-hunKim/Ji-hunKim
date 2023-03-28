@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihun's%20Github&fontSize=60)
 
-## 백엔드 개발자 김지훈입니다 <br>
+## Language
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+## Framework, Library
+
+## Tools
+
+## Database
 
 ## 📂 Projects <br>
 - Lush 클론 코딩  <br>
