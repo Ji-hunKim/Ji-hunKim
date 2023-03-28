@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihun's%Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihun's%20Github&fontSize=60)
 
 ## 백엔드 개발자 김지훈입니다 <br>
 
