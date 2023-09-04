@@ -7,7 +7,7 @@
 |<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">|<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">|<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">|<img src="https://img.shields.io/badge/Mybatis-F80000?style=for-the-badge&logo=Mybatis&logoColor=white">|<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">|<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">|
 |<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">||||<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">||
 
-## 📂 Projects <br>
+## 📂 Projects <br>  
 - [Lush 클론 코딩 프로젝트](https://github.com/Ji-hunKim/Lush-1)<br>
 - [Carhartt 가방 쇼핑몰 프로젝트](https://github.com/Ji-hunKim/Carhartt)<br>
 - [스프링 게시판 구현 프로젝트](https://github.com/Ji-hunKim/springBoard)<br>
